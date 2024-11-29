@@ -1,0 +1,27 @@
+[
+    {
+        "item": "Beef",
+        "carbon_footprint_kg_co2_per_kg": 27.0,
+        "category": "Food"
+    },
+    {
+        "item": "Milk",
+        "carbon_footprint_kg_co2_per_liter": 1.9,
+        "category": "Food"
+    },
+    {
+        "item": "Plastic Bag",
+        "carbon_footprint_kg_co2_per_unit": 0.2,
+        "category": "Packaging"
+    },
+    {
+        "item": "Electric Car (per km)",
+        "carbon_footprint_kg_co2_per_km": 0.05,
+        "category": "Transportation"
+    },
+    {
+        "item": "Smartphone",
+        "carbon_footprint_kg_co2_per_unit": 70.0,
+        "category": "Electronics"
+    }
+]
